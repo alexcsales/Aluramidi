@@ -17,7 +17,7 @@
 
 <h3 id=features>⚙ Features<h3>
 - [x] Layout desktop<br>
-- [ ] Funcionalidade do botões
+- [ ] Reprodução do som
   
  <h1 id="previa" align="center">
   <img height="20%" width="60%" alt="GIF-Project"  src=""/>
