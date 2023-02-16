@@ -13,11 +13,13 @@
    * <a href="#autor">Autor</a><br>
 <!--te-->
 
-<h3 id="status" align='center'>🚧 STATUS: Projeto em construção...🚧</h3>
+<h3 id="status" align='center'>✅ STATUS: Projeto concluído✅</h3>
 
 <h3 id=features>⚙ Features<h3>
 - [x] Layout desktop<br>
-- [ ] Reprodução do som
+- [x] Reprodução do som<br>
+- [x] Evento de teclado
+
   
  <h1 id="previa" align="center">
   <img height="20%" width="60%" alt="GIF-Project"  src=""/>
