@@ -22,7 +22,7 @@
 
   
  <h1 id="previa" align="center">
-  <img height="20%" width="60%" alt="GIF do Projeto"  src="src/images/aluramidi.gif"/>
+  <img height="20%" width="60%" src="src/image/readme.gif" alt="GIF do Projeto"/>
 </h1>
   <hr>
   
