@@ -22,8 +22,8 @@
 
   
  <h1 id="previa" align="center">
-  <img height="20%" width="60%" alt="GIF do Projeto"  src="src/img/Aluramidi.gif"/>
-<h1/>
+  <img height="20%" width="60%" alt="GIF do Projeto"  src="src/images/aluramidi.gif"/>
+</h1>
   <hr>
   
 <h2 id="pre-requisitos">🖥️Pré-requisitos</h2>
