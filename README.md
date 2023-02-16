@@ -27,7 +27,7 @@
   <hr>
   
 <h2 id="pre-requisitos">🖥️Pré-requisitos</h2>
-  <p>Antes de começar, você precisará ter as seguintes ferramentas instaladas: <a href='https://git-scm.com/downloads'>Git<a>. Também é bom ter um editor para trabalhar com código como <a href='https://code.visualstudio.com/download'>VScode<a/>.</p>
+  <p>Antes de começar, você precisará ter as seguintes ferramentas instaladas: <a href='https://git-scm.com/downloads'>Git<a>. Também é bom ter um editor para trabalhar com código como <a href='https://code.visualstudio.com/download'>VScode</a>.</p>
     
  <h3 id="instruçoes" >📖 Instruções:</h3>
     
